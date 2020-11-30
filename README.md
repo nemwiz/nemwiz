@@ -1,7 +1,7 @@
 <p align="Center"><img src="https://steamuserimages-a.akamaihd.net/ugc/911293473580328863/DCB12F76423E5226064ABC302B326C2F527A42DF/"/></p>
 
 
-### Hi there my name is Nemanja👋
+### Hello, my name is Nemanja👋
 
 
 #### I am an experienced fullstack developer with an enterprise background and I specialize in web development. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
