@@ -4,14 +4,14 @@
 ### Hello, my name is Nemanja👋
 
 
-#### I am an experienced fullstack developer with an enterprise background and I specialize in web development. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
+#### I am a lead engineer with an enterprise background. My niche is web development but over the past few years I got more involved into cloud and DevOps. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
 
 <!--
 **nemwiz/nemwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 🔭 I’m currently working on ...
 
-UI component library built with web components, StencilJS and Storybook
+Building up a platform team and trying to establish DevOps practices
 
 
 🌱 I’m currently learning ...
