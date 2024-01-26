@@ -4,7 +4,7 @@
 ### Hello, my name is Nemanja👋
 
 
-#### I am a lead engineer with an enterprise background. My niche is web development but over the past few years I got more involved into cloud and DevOps. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
+#### I am a lead engineer with an enterprise background. Since early 2023. I've been mainly working on Generative AI projects but over the past few years I've accumulated a lot of experience in cloud and DevOps. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
 
 <!--
 **nemwiz/nemwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
