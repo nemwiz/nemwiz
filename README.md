@@ -11,12 +11,12 @@
 
 🔭 I’m currently working on ...
 
-Building up a platform team and trying to establish DevOps practices
+Building systems powered by Generative AI.
 
 
 🌱 I’m currently learning ...
 
-Rust
+Django
 
 
 👯 I’m looking to collaborate on ...
@@ -26,11 +26,11 @@ Awesome projects!
 
 💬 Ask me about ...
 
-Web development, WebAssembly, Rust, Java
+Generative AI, DevOps, Cloud, Web development, WebAssembly
 
 
 📫 How to reach me: ...
 
-Find me on Linkedin https://www.linkedin.com/in/nemanja-ninkovi%C4%87-83404459/
+Check out [my website](https://ninkovic.dev/blog) where I blog on technical topics OR add me on [Linkedin](https://www.linkedin.com/in/nemanja-ninkovi%C4%87-83404459/)
 
 
