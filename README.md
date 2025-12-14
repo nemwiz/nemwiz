@@ -4,7 +4,7 @@
 ### Hello, my name is Nemanja👋
 
 
-#### Currently working as a lead AI engineer at [Freeday](https://www.freeday.ai) where I lead a talented team of engineers focused on creating the digital AI workforce of Europe. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
+#### Currently working as a Tech lead at [Freeday](https://www.freeday.ai) where I lead a talented team of engineers focused on creating the digital AI workforce of Europe. Except my day-to-day work I also try to contribute to the community by speaking on meetups and sharing my knowledge
 
 <!--
 **nemwiz/nemwiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
